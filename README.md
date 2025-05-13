@@ -14,4 +14,6 @@ Speechbrain PartialFake for "WAVEFORM BOUNDARY DETECTION FOR PARTIALLY SPOOFED A
 TDL for "AN EFFICIENT TEMPORARY DEEPFAKE LOCATION APPROACH BASED EMBEDDINGS
 FOR PARTIALLY SPOOFED AUDIO DETECTION"
 
+XLSR-Mamba for "XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection"
+
 See code for "The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance" and "Multi-task Learning in Utterance-level and Segmental-level Spoof Detection" please go https://github.com/nii-yamagishilab/PartialSpoof
