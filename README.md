@@ -1,6 +1,8 @@
 # PSD
 Code for partially spoofed audio detection
 
+AMSDF for "Audio multi-view spoofing detection framework based on audio-text-emotion correlations"
+
 ATGO for "Adversarial Training and Gradient Optimization
 for Partially Deepfake Audio Localization"
 
